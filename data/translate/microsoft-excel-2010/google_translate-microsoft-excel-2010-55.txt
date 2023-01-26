@@ -1,0 +1,1 @@
+Ferramentas de Gráfico Quando você insere um gráfico, o grupo Ferramentas de Gráfico aparece na Faixa de Opções. Lá você verá três guias que você pode usar para modificar o gráfico. Como alterar o tipo de gráfico: Etapa 1: Na guia Design, clique no comando Alterar tipo de gráfico. Uma caixa de diálogo aparecerá. Passo 2: Selecione o tipo de gráfico desejado e clique em OK.

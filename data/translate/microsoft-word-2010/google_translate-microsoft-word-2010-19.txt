@@ -1,0 +1,1 @@
+Recuar a partir de comandos Etapas para adicionar recuos Etapa 1: Selecione o texto que deseja recuar. Etapa 2: verifique se você está na guia Início. Passo 3: Por fim, clique no comando Aumentar ou Diminuir Recuo como preferir. Se preferir, você pode escrever os valores, utilizando os campos da aba Design da Página.

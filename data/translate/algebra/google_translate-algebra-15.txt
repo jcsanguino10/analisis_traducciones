@@ -1,0 +1,1 @@
+Raiz de uma potência Vamos ver como calcular a raiz de uma potência. Se você ainda não sabe o que é representação algébrica, clique aqui para ver a explicação. Siga estes passos fáceis e encontre a raiz de um poder! 1. Separe a base: 2. Divida a potência pelo índice: 3. Eleve o resultado da divisão entre potência e índice, para o radicando:
