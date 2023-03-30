@@ -200,9 +200,10 @@ def get_google_translations_from_txt(path: str, course: str , lessons_dict: dict
         return acc
     else:
         i = len(acc)
-        with open(path + '/' + course +  '/google_translate-' + course + "-" + str(i) + ".txt") as f:
+        with open(path + '/' + course +  '/google_translate-' + course + "-" + str(i) + ".txt",  encoding="utf8") as f:
             return get_google_translations_from_txt(path,course, lessons_dict, acc + [f.read()])
 
+        # return "ola"
 def encode_course_by_lesson(lessons_dict: dict, course: str, encoder: str ,google_translations = []):
     """
     Receives:
